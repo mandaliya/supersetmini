@@ -1,1 +1,1 @@
-# supersetmini
+# Superset Mini
